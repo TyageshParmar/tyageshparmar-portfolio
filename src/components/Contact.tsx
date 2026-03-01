@@ -169,7 +169,7 @@ const Contact = () => {
                       { href: "https://www.linkedin.com/in/tyagesh-parmar-740248333/", icon: Linkedin, label: "LinkedIn" },
                       { href: "https://github.com/TyageshParmar?tab=repositories", icon: Github, label: "GitHub" },
                       { href: "mailto:tyageshrparmar2107@gmail.com", icon: Mail, label: "Email" },
-                      { href: "https://drive.google.com/file/d/1PY2kO6Ip02BadmziivxZtmfRPrqsrQQg/view", icon: FileText, label: "Resume" }
+                      { href: "https://drive.google.com/file/d/1KKgFeCnMx6GMKQnNdkOVczrCSdgN1BlB/view?usp=sharing", icon: FileText, label: "Resume" }
                     ].map((link) => (
                       <motion.div
                         key={link.label}
