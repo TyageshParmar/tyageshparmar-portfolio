@@ -72,7 +72,7 @@ const Navbar = () => {
               whileTap={{ scale: 0.95 }}
             >
               <Button variant="default" size="sm" className="flex items-center gap-2" asChild>
-                <a href="https://drive.google.com/file/d/1PY2kO6Ip02BadmziivxZtmfRPrqsrQQg/view" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/file/d/1KKgFeCnMx6GMKQnNdkOVczrCSdgN1BlB/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                   <Download className="h-4 w-4" />
                   Resume
                 </a>
@@ -146,7 +146,7 @@ const Navbar = () => {
                 transition={{ delay: 0.5 }}
               >
                 <Button variant="default" size="sm" className="mt-3 w-full flex items-center justify-center gap-2" asChild>
-                  <a href="https://drive.google.com/file/d/1PY2kO6Ip02BadmziivxZtmfRPrqsrQQg/view" target="_blank" rel="noopener noreferrer">
+                  <a href="https://drive.google.com/file/d/1KKgFeCnMx6GMKQnNdkOVczrCSdgN1BlB/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                     <Download className="h-4 w-4" />
                     Resume
                   </a>
