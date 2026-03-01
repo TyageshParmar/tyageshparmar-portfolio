@@ -124,7 +124,7 @@ const Contact = () => {
                 <div>
                   <p className="text-foreground/60">Resume</p>
                   <a 
-                    href="https://drive.google.com/file/d/1PY2kO6Ip02BadmziivxZtmfRPrqsrQQg/view" 
+                    href="https://drive.google.com/file/d/1KKgFeCnMx6GMKQnNdkOVczrCSdgN1BlB/view?usp=sharing" 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="flex items-center gap-1 text-foreground/90 hover:text-primary transition-colors"
