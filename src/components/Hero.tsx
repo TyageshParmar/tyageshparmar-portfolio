@@ -99,7 +99,7 @@ const Hero = () => {
               <a href="#contact">Get In Touch</a>
             </Button>
             <Button variant="secondary" size="lg" asChild className="group">
-              <a href="https://drive.google.com/file/d/1PY2kO6Ip02BadmziivxZtmfRPrqsrQQg/view" target="_blank" rel="noopener noreferrer">
+              <a href="https://drive.google.com/file/d/1KKgFeCnMx6GMKQnNdkOVczrCSdgN1BlB/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 <FileText className="w-4 h-4 mr-2 group-hover:rotate-12 transition-transform" />
                 Resume
               </a>
