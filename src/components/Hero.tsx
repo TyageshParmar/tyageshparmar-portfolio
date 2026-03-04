@@ -66,7 +66,7 @@ const Hero = () => {
               className="flex items-center justify-center gap-2 text-foreground/70"
             >
               <MapPin className="w-4 h-4" />
-              <span>Ahmedabad, Gujarat</span>
+              <span>Ahmedabad, Gujarat, India</span>
             </motion.div>
           </motion.div>
 
